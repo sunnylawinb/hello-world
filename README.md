@@ -1,2 +1,2 @@
 # hello-world
-This is to learn git
+Sample hello world on git
